@@ -19,7 +19,7 @@ function App() {
       <div>
         <a
           className="marketing-button"
-          href="https://gitbook.com/cryptofifa2023"
+          href="https://crypto-fifa23.gitbook.io/crypto-fifa23-world/"
           target="_blank"
           rel="noopener noreferrer"
         >
